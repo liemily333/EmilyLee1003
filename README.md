@@ -9,12 +9,7 @@ I'm looking to be a part of a team who encourages growth and broaden my skills t
  - I value shared understanding and consensus 
  - I love to ski 
 
-### Future Goals
-I want to design and devlop a gaming application
-
-**EmilyLee1003/EmilyLee1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### What am I up to? 
 - 🔭 I’m currently working on: deploying my React Native iOS application to the app store
 - 🌱 I’m currently learning: deploying iOS application to Android google play store
 - 🤔 I’m looking for: Guidance and hopefully a mentor I can gain lots from
