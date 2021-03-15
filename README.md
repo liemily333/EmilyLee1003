@@ -15,8 +15,7 @@ I'm looking to be a part of a team who encourages growth and broaden my skills t
 - 🤔 I’m looking for: Guidance and hopefully a mentor I can gain lots from
 
 ### 📫 How to reach me:
-   -Email: emlee088@gmail.com
-   -Linkedin: https://www.linkedin.com/in/emilymlee3/
+   Email: emlee088@gmail.com / Linkedin: https://www.linkedin.com/in/emilymlee3/
 
 
 
