@@ -10,12 +10,13 @@ I'm looking to be a part of a team who encourages growth and broaden my skills t
  - I love to ski 
 
 ### What am I up to?: 
-- 🔭 I’m currently working on: deploying my React Native iOS application to the app store
+- 🔭 I’m currently working on: Creating more applications with React.js and deploying to the app store
 - 🌱 I’m currently learning: deploying iOS application to Android google play store
 - 🤔 I’m looking for: Guidance and hopefully a mentor I can gain lots from
-- 📫 How to reach me:
-           Email: emlee088@gmail.com
-           Linkedin: https://www.linkedin.com/in/emilymlee3/
+
+### 📫 How to reach me:
+   -Email: emlee088@gmail.com
+   -Linkedin: https://www.linkedin.com/in/emilymlee3/
 
 
 
