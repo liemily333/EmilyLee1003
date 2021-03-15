@@ -8,7 +8,6 @@ I'm looking to be a part of a team who encourages growth and broaden my skills t
  - I have a beginner's curiosity and a ambitious mindset 
  - I value shared understanding and consensus 
  - I love to ski 
-<!--
 
 ### Future Goals
 I want to design and devlop a gaming application
