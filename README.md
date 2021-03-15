@@ -3,7 +3,7 @@
 I'm a full stack developer that recently earned a certificatefrom UCLA Extension Coding Bootcamp. 
 I'm looking to be a part of a team who encourages growth and broaden my skills to create innovative apps. 
 
-Some things about me:
+### Some things about me:
  - I decided to pursue a career change from social media marketing to challenging world of programming
  - I have a beginner's curiosity and a ambitious mindset 
  - I value shared understanding and consensus 
