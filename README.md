@@ -11,7 +11,7 @@ I'm looking to be a part of a team who encourages growth and broaden my skills t
 
 ### What am I up to?: 
 - 🔭 I’m currently working on: Creating more applications with React.js and deploying to the app store
-- 🌱 I’m currently learning: deploying iOS application to Android google play store
+- 🌱 I’m currently learning: other programming languages such as Python!
 - 🤔 I’m looking for: Guidance and hopefully a mentor I can gain lots from
 
 ### 📫 How to reach me:
